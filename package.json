@@ -1,0 +1,16 @@
+{
+  "name": "highestmileage",
+  "version": "0.1.0",
+  "description": "Highest Mileage Project",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Andrew Thresher",
+  "license": "ISC"
+}
